@@ -1,0 +1,11 @@
+streamlit
+pinecone-client
+langchain
+pypdf
+pandas
+numpy
+python-dotenv
+langchain-pinecone
+langchain-community
+langchain-google-genai
+nest-asyncio
